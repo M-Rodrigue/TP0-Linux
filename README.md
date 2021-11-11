@@ -1,2 +1,2 @@
 # TP0-Linux
-BTS SNIR - G
+BTS SNIR1 - G
